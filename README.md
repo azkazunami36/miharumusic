@@ -1,0 +1,2 @@
+# miharumusic
+音楽botや音楽プレイヤーとしてのGUIを提供します
